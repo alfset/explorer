@@ -10,8 +10,8 @@
         "symbol": "SEI",
         "exponent": "6",
         "coingecko_id": "SEI", 
-        "logo": "https://dl.airtable.com/.attachments/e54f814bba8c0f9af8a3056020210de0/2d1155fb/cosmos-hub.svg"
+        "logo": "https://github.com/alfset/explorer/blob/alfset-patch-Sei-explorer/src/chains/testnet/sei.png"
     }],
     "addr_prefix": "cosmos",
-    "logo": "https://dl.airtable.com/.attachments/e54f814bba8c0f9af8a3056020210de0/2d1155fb/cosmos-hub.svg"
+    "logo": "https://github.com/alfset/explorer/blob/alfset-patch-Sei-explorer/src/chains/testnet/sei.png"
 }
