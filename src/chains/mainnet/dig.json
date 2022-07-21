@@ -1,19 +1,19 @@
 {
-    "chain_name": "dig",
+    "chain_name": "Sei-Protokol",
     "coingecko": "",
-    "api": "https://api-1-dig.notional.ventures",
-    "rpc": ["https://rpc-1-dig.notional.ventures:443", "https://rpc-1-dig.notional.ventures:443"],
+    "api": "https://sei-api.theamsolutions.info",
+    "rpc": ["http://161.97.82.203:26457", "https://sei-testnet.nodejumper.io"],
     "snapshot_provider": "",
     "sdk_version": "0.44.5",
     "coin_type": "118",
     "min_tx_fee": "5000",
-    "addr_prefix": "dig",
-    "logo": "/logos/dig1.png",
+    "addr_prefix": "sei",
+    "logo": "/logos/sei1.png",
     "assets": [{
-        "base": "udig",
-        "symbol": "DIG",
+        "base": "usei",
+        "symbol": "SEI",
         "exponent": "6",
-        "coingecko_id": "dig-chain", 
+        "coingecko_id": "sei-chain", 
         "logo": "/logos/dig1.png"
     }]
 }
